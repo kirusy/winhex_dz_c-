@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1733332460 source:d:\hometask_winhex\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+
